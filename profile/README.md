@@ -26,7 +26,7 @@ Contribution is welcome of course.
 
 ## Getting started
 
-The easiest way to get **MangaWeb 4** up and running is via [Docker Compose](https://docs.docker.com/compose/). You can use clone the project [manga4-stack]https://github.com/mangaweb4/mangaweb4-stack, and run `$ docker compose up -d` to get it up and running. 
+The easiest way to get **MangaWeb 4** up and running is via [Docker Compose](https://docs.docker.com/compose/). You can use clone the project [manga4-stack](https://github.com/mangaweb4/mangaweb4-stack), and run `$ docker compose up -d` to get it up and running. 
 
 Once you get it up, visit `http://localhost:8000`, and you'll be greeted with the browse screen.
 
