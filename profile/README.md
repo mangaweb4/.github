@@ -48,7 +48,7 @@ Once you get it up, visit `http://localhost:8000`, and you'll be greeted with th
 
 ## Copyright Notice
 
-**MangaWeb 4** only includes tested comic files with the project. The comics appear in the screenshot are not shipped with the project. Each comics are protected by copyright owns by its rightful copyright holder. The developer does not claim to own the copyright of any of the comic shown here.
+**MangaWeb 4** only includes comic files for testing purpose with the project. The comics appear in the screenshot are not shipped with the project. Each comics are protected by copyright owns by its rightful copyright holder. The developer does not claim to own the copyright of any of the comic shown here.
 
 <!--
 
